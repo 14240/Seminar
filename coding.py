@@ -28,3 +28,5 @@ elif avg >= 0 and avg < 21:
 	print("Your Grade is E2")
 else:
 	print("Invalid Input!")
+ 
+print("Thank you")
